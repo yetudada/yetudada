@@ -4,7 +4,7 @@
 
 - Principal Product Manager at QuantumBlack, part of McKinsey & Company
 - Maintainer on [**Kedro**](https://github.com/quantumblacklabs/kedro/)
-- My pronouns are she/her/hers
+- My pronouns are she/her/hers and I'm from 🇿🇦
 
 #### GitHub Stats
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=yetudada&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yetudada)
