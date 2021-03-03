@@ -16,10 +16,12 @@
 
 #### Media 🛸
 ##### Conference & Meetup Presentations
+  - [Introducing Kedro](https://youtu.be/x1Z5YHFn71E) @ Data Driven NYC February 2021
   - [An Introduction to Kedro](https://www.youtube.com/watch?v=BksxHxc1WtU&ab_channel=WhyR%3FFoundation) @ Why R? 2020
   - [Production-level data pipelines that make everyone happy using Kedro](https://youtu.be/OFObles2CJs) @ PyData Berlin 2019
   
 ##### Podcasts
+  - [QuantumBlack Voices - Meet Yetunde Dada: Product Manage‪r‬](https://podcasts.apple.com/us/podcast/quantumblack-voices/id1554555998?at=11lo6V) @ QuantumBlack 2021
   - [Open Source Directions Ep. 49: Kedro](https://www.youtube.com/watch?v=USiedaclFzk&ab_channel=OpenTeams) @ OpenTeams 2020
   - [Productionising real-world ML data pipelines - Episode #380](https://changelog.com/podcast/380) @ Changelog 2020
   
