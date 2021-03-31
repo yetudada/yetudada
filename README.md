@@ -17,6 +17,8 @@
 #### Media 🛸
 ##### Conference & Meetup Presentations
   - [Introducing Kedro](https://youtu.be/x1Z5YHFn71E) @ Data Driven NYC February 2021
+  - [Building Machine Learning Products with QuantumBlack, a McKinsey Company](https://youtu.be/1QtDj-9fUu0) @ Product People January 2020
+  - [Atomu: A Case Study](https://youtu.be/FwsaPd95UwU) @ Electric South 2020
   - [An Introduction to Kedro](https://www.youtube.com/watch?v=BksxHxc1WtU&ab_channel=WhyR%3FFoundation) @ Why R? 2020
   - [Production-level data pipelines that make everyone happy using Kedro](https://youtu.be/OFObles2CJs) @ PyData Berlin 2019
   
