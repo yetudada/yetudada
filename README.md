@@ -24,6 +24,7 @@
   - [Production-level data pipelines that make everyone happy using Kedro](https://youtu.be/OFObles2CJs) @ PyData Berlin 2019
   
 ##### Podcasts
+  - [Episode #337 - Kedro for Maintainable Data Science](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science) @ TalkPython['Podcast']
   - [QuantumBlack Voices - Meet Yetunde Dada: Product Manage‪r‬](https://podcasts.apple.com/us/podcast/quantumblack-voices/id1554555998?at=11lo6V) @ QuantumBlack 2021
   - [Open Source Directions Ep. 49: Kedro](https://www.youtube.com/watch?v=USiedaclFzk&ab_channel=OpenTeams) @ OpenTeams 2020
   - [Productionising real-world ML data pipelines - Episode #380](https://changelog.com/podcast/380) @ Changelog 2020
