@@ -3,14 +3,14 @@
 #### About Me 🚀
 
 - Senior Principal Product Manager at QuantumBlack, part of McKinsey & Company
-- Maintainer on [**Kedro**](https://github.com/quantumblacklabs/kedro/)
+- Maintainer on [**Kedro**](https://github.com/kedro-org/kedro/)
 - My pronouns are she/her/hers and I'm from 🇿🇦
 
 #### GitHub Stats
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=yetudada&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yetudada)
 
 #### Get in Touch 👽
-- Kedro: [github.com/quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro/)
+- Kedro: [github.com/quantumblacklabs/kedro](https://github.com/kedro-org/kedro/)
 - Twitter: [@yetudada](https://twitter.com/yetudada)
 - LinkedIn: [@yetudada](https://www.linkedin.com/in/yetudada/)
 
