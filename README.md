@@ -2,7 +2,7 @@
 
 #### About Me 🚀
 
-- Senior Principal Product Manager at QuantumBlack, part of McKinsey & Company
+- Director of Product Management at QuantumBlack, part of McKinsey & Company
 - Maintainer on [**Kedro**](https://github.com/kedro-org/kedro/)
 - My pronouns are she/her/hers and I'm from 🇿🇦
 
