@@ -16,6 +16,7 @@
 
 #### Media 🛸
 ##### Conference & Meetup Presentations
+  - [ML@Scale x E-commerce Fireside Chat](https://youtu.be/u__S3m9uaGI) @ AIxImpact Conference QuantumBlack Southeast Asia 2022
   - [Reproducible and maintainable data science code with Kedro](https://youtu.be/JLTYNPoK7nw) @ PyCon US 2021
   - [Introducing Kedro](https://youtu.be/x1Z5YHFn71E) @ Data Driven NYC February 2021
   - [Building Machine Learning Products with QuantumBlack, a McKinsey Company](https://youtu.be/1QtDj-9fUu0) @ Product People January 2020
