@@ -10,7 +10,7 @@
 [![Github Profile](https://github-readme-stats.vercel.app/api?username=yetudada&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yetudada)
 
 #### Get in Touch 👽
-- Kedro: [kedro.org/](https://kedro.org/)
+- Kedro: [kedro.org](https://kedro.org/)
 - Twitter: [@yetudada](https://twitter.com/yetudada)
 - LinkedIn: [@yetudada](https://www.linkedin.com/in/yetudada/)
 
