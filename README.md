@@ -31,6 +31,9 @@
   - [Productionising real-world ML data pipelines - Episode #380](https://changelog.com/podcast/380) @ Changelog 2020
   
 ##### Blogs
+  - [Kedro Joins the Linux Foundation to Become an Open Standard for Machine Learning Engineering](https://medium.com/quantumblack/kedro-joins-the-linux-foundation-to-become-an-open-standard-for-machine-learning-engineering-b0061152ff73) @ QuantumBlack Medium 2022
+  - [The latest and greatest in Kedro — We’re growing our community](https://medium.com/quantumblack/the-latest-and-greatest-in-kedro-were-growing-our-community-c868825b0cb4) @ QuantumBlack Medium 2021
+  - [Unboxing Kedro 0.17.0 and Kedro-Viz 3.8.0 🎁](https://medium.com/quantumblack/unboxing-kedro-0-17-0-and-kedro-viz-3-8-0-dfdbdb024289) @ QuantumBlack Medium 2020
   - [Beyond the Notebook and into the Data Science Framework Revolution](https://medium.com/quantumblack/beyond-the-notebook-and-into-the-data-science-framework-revolution-a7fd364ab9c4) @ QuantumBlack Medium Blog 2020
   - [New in Kedro this Month!](https://medium.com/quantumblack/new-in-kedro-this-month-991a1fb50cb4) @ QuantumBlack Medium Blog 2020
   - [Demystifying Machine Learning Complexity Through Visualisation](https://medium.com/quantumblack/demystifying-machine-learning-complexity-through-visualisation-11a9d73db3c5) @ QuantumBlack Medium Blog 2019
