@@ -6,9 +6,6 @@
 - Maintainer on [**Kedro**](https://kedro.org/)
 - My pronouns are she/her/hers and I'm from 🇿🇦
 
-#### GitHub Stats
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=yetudada&&hide=stars&show_icons=true&hide_title=true&hide_border=true)](https://github.com/yetudada)
-
 #### Get in Touch 👽
 - Kedro: [kedro.org](https://kedro.org/)
 - Twitter: [@yetudada](https://twitter.com/yetudada)
@@ -16,6 +13,7 @@
 
 #### Media 🛸
 ##### Conference & Meetup Presentations
+  - [Unpacking B2D Success: Building A Product That Developers Choose To Use](https://www.youtube.com/watch?v=oiCHf2X1GyY) @ Women In Product Conference 2022
   - [ML@Scale x E-commerce Fireside Chat](https://youtu.be/u__S3m9uaGI) @ AIxImpact Conference QuantumBlack Southeast Asia 2022
   - [Reproducible and maintainable data science code with Kedro](https://youtu.be/JLTYNPoK7nw) @ PyCon US 2021
   - [Introducing Kedro](https://youtu.be/x1Z5YHFn71E) @ Data Driven NYC February 2021
