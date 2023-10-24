@@ -2,7 +2,7 @@
 
 #### About Me 🚀
 
-- Director of Product Management at QuantumBlack, part of McKinsey & Company
+- Senior Director of Product Management at QuantumBlack, AI by McKinsey
 - Maintainer on [**Kedro**](https://kedro.org/)
 - My pronouns are she/her/hers and I'm from 🇿🇦
 
@@ -23,6 +23,7 @@
   - [Production-level data pipelines that make everyone happy using Kedro](https://youtu.be/OFObles2CJs) @ PyData Berlin 2019
   
 ##### Podcasts
+  - [Leveraging generative AI in Europe: The opportunities and challenges](https://www.mckinsey.com/Videos/video?vid=6338398301112&plyrid=IzQolWCsY) @ McKinsey.com 2023
   - [Data Journey with Yetunde Dada & Ivan Danov (QuantumBlack) - Kedro (an open-source MLOPs framework)](https://urldefense.com/v3/__https://open.spotify.com/episode/2fVKWEI5JG64cGesvjBcxy?si=0d71cb6abeec4cac__;!!EIXh2HjOrYMV!acIdIZnFl4-1GoG8JWUOY3Hsspy-G7BZqKE2ZmooyBbKhnZd8tKeidCft8LQp8R-YS0pyrrxYPX-8hNq_yN_vkk$) @ Radio DaTa 2023
   - [Episode #337 - Kedro for Maintainable Data Science](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science) @ TalkPython['Podcast'] 2021
   - [QuantumBlack Voices - Meet Yetunde Dada: Product Manage‪r‬](https://podcasts.apple.com/us/podcast/quantumblack-voices/id1554555998?at=11lo6V) @ QuantumBlack 2021
