@@ -8,7 +8,6 @@
 
 #### Get in Touch 👽
 - Kedro: [kedro.org](https://kedro.org/)
-- Twitter: [@yetudada](https://twitter.com/yetudada)
 - LinkedIn: [@yetudada](https://www.linkedin.com/in/yetudada/)
 
 #### Media 🛸
