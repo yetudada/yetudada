@@ -12,6 +12,7 @@
 
 #### Media 🛸
 ##### Conference & Meetup Presentations
+  - [AI & Productivity: A Workplace Love Story?](https://schedule.sxsw.com/2024/events/PP138093) @ SXSW 2024 
   - [Unpacking B2D Success: Building A Product That Developers Choose To Use](https://www.youtube.com/watch?v=oiCHf2X1GyY) @ Women In Product Conference 2022
   - [ML@Scale x E-commerce Fireside Chat](https://youtu.be/u__S3m9uaGI) @ AIxImpact Conference QuantumBlack Southeast Asia 2022
   - [Reproducible and maintainable data science code with Kedro](https://youtu.be/JLTYNPoK7nw) @ PyCon US 2021
