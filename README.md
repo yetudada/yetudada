@@ -2,12 +2,11 @@
 
 #### About Me 🚀
 
-- Senior Director of Product Management at QuantumBlack, AI by McKinsey
+- Senior Director of Product Management at Astronomer
 - Maintainer on [**Kedro**](https://kedro.org/)
 - My pronouns are she/her/hers and I'm from 🇿🇦
 
 #### Get in Touch 👽
-- Kedro: [kedro.org](https://kedro.org/)
 - LinkedIn: [@yetudada](https://www.linkedin.com/in/yetudada/)
 
 #### Media 🛸
