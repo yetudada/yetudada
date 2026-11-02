@@ -11,6 +11,7 @@
 
 #### Media 🛸
 ##### Conference & Meetup Presentations
+  - [Stop Being the Dag Bottleneck: How to Scale Airflow Orchestration Beyond Your Engineering Team](https://airflowsummit.org/sessions/2026/stop-being-the-dag-bottleneck-how-to-scale-airflow-orchestration-beyond-your-engineering-team/) @ Airflow Summit 2026
   - [AI & Productivity: A Workplace Love Story?](https://schedule.sxsw.com/2024/events/PP138093) @ SXSW 2024 
   - [Unpacking B2D Success: Building A Product That Developers Choose To Use](https://www.youtube.com/watch?v=oiCHf2X1GyY) @ Women In Product Conference 2022
   - [ML@Scale x E-commerce Fireside Chat](https://youtu.be/u__S3m9uaGI) @ AIxImpact Conference QuantumBlack Southeast Asia 2022
@@ -23,6 +24,8 @@
   - [Production-level data pipelines that make everyone happy using Kedro](https://youtu.be/OFObles2CJs) @ PyData Berlin 2019
   
 ##### Podcasts
+  - [The 10,000-hour problem: how do juniors learn?](https://www.appliedmethods.ai/signals/yetunde-dada-astronomer-10000-hour-problem) @ Applied Methods Voices 2026
+  - [Specialized AI for Data Engineers: Inside Astronomer's Otto](https://www.dataengineeringpodcast.com/astronomer-otto-airflow-agent-episode-515) @ Data Engineering Podcast 20XX
   - [Leveraging generative AI in Europe: The opportunities and challenges](https://www.mckinsey.com/Videos/video?vid=6338398301112&plyrid=IzQolWCsY) @ McKinsey.com 2023
   - [Data Journey with Yetunde Dada & Ivan Danov (QuantumBlack) - Kedro (an open-source MLOPs framework)](https://urldefense.com/v3/__https://open.spotify.com/episode/2fVKWEI5JG64cGesvjBcxy?si=0d71cb6abeec4cac__;!!EIXh2HjOrYMV!acIdIZnFl4-1GoG8JWUOY3Hsspy-G7BZqKE2ZmooyBbKhnZd8tKeidCft8LQp8R-YS0pyrrxYPX-8hNq_yN_vkk$) @ Radio DaTa 2023
   - [Episode #337 - Kedro for Maintainable Data Science](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science) @ TalkPython['Podcast'] 2021
